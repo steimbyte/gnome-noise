@@ -57,3 +57,9 @@ This project is licensed under the GPL-3.0 License. See [COPYING](COPYING) for d
 ---
 
 *GNOME Noise is not affiliated with the GNOME Foundation.*
+
+---
+
+## Hinweis zur KI-Unterstützung
+
+Bei der Entwicklung dieses Projekts wurden teilweise oder vollständig KI-gestützte Tools und Technologien eingesetzt.
